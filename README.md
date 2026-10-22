@@ -1,178 +1,276 @@
-# Hey, I'm Sahil Desai 👋
-
-### AI/ML Engineer in Progress · Computer Vision · Agentic AI
-
-I build intelligent systems that turn real-world problems into practical AI solutions.
-
-Currently exploring **Machine Learning, Deep Learning, Computer Vision, RAG, and Agentic AI** — while strengthening my foundations in Data Science and DSA.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Computer+Vision+%26+Deep+Learning;Experimenting+with+RAG+%26+AI+Agents;Turning+ideas+into+working+projects)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://github.com/sahil1399m">
-    <img src="https://img.shields.io/badge/GitHub-sahil1399m-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  SAHIL DESAI — PROFILE README                                         ║
+║  Setup: copy this file into the public repo named sahil1399m.         ║
+║  Animated snake + 3D graph need the included GitHub Actions files.    ║
+╚══════════════════════════════════════════════════════════════════════╝
+<!-- ========================= HERO / ANIMATED HEADER ========================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:312E81,100:06B6D4&height=250&section=header&text=SAHIL%20DESAI&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20ENGINEERING%20%2F%20MACHINE%20LEARNING%20%2F%20COMPUTER%20VISION&descSize=16&descAlignY=58&animation=fadeIn" alt="Sahil Desai — AI/ML and Computer Vision" />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=48&lines=Building+AI+that+solves+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+Agentic+AI;RAG+systems+%7C+LLM+applications+%7C+AI+agents;Experiment.+Build.+Evaluate.+Iterate." alt="Animated introduction" />
   </a>
-  <a href="https://linkedin.com/in/sahil-desai-665404341">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sahildesai00112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+  <br /><br />
+  <a href="https://github.com/sahil1399m"><img src="https://img.shields.io/badge/GitHub-sahil1399m-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/sahil-desai-665404341"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sahildesai00112@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/sahildesai_012"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=sahil1399m&style=for-the-badge&color=0891B2&label=PROFILE+VISITS" alt="Profile visits" />
+  <img src="https://img.shields.io/github/followers/sahil1399m?style=for-the-badge&logo=github&label=FOLLOWERS&color=7C3AED" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sahil1399m?style=for-the-badge&logo=github&label=STARS&color=F59E0B" alt="GitHub stars" />
+</div>
+<br />
+<!-- ============================== QUICK PITCH =============================== -->
+<div align="center">
+> **I build intelligent systems at the intersection of machine learning, computer vision, and AI engineering.**
+>
+> Currently exploring how models, retrieval systems, and autonomous workflows can become reliable applications—not just demos.
+</div>
 ---
-
-## `01` — About Me
-
-```python
-class SahilDesai:
-    focus = ["AI Engineering", "Machine Learning", "Computer Vision"]
-    learning = ["Deep Learning", "RAG", "Agentic AI", "DSA"]
-    interests = [
-        "Building real-world AI applications",
-        "Intelligent agents and automation",
-        "Computer vision systems",
-        "Open-source collaboration"
-    ]
-
-    goal = "Build AI that solves meaningful problems"
+<!-- ================================ NAVIGATION ============================== -->
+<div align="center">
+  <a href="#-about-me">ABOUT</a> ·
+  <a href="#-featured-builds">PROJECTS</a> ·
+  <a href="#-arsenal">TECH STACK</a> ·
+  <a href="#-github-command-center">ANALYTICS</a> ·
+  <a href="#-contribution-universe">CONTRIBUTIONS</a> ·
+  <a href="#-connect">CONTACT</a>
+</div>
+<br />
+<!-- ================================ ABOUT ME ================================ -->
+`01`   /   🧬 About Me
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  NAME       Sahil Desai                                           │
+│  FOCUS      AI Engineering • Machine Learning • Computer Vision   │
+│  EXPLORING  Deep Learning • RAG • Agentic AI • LLM Applications   │
+│  BUILDING   Practical AI projects, from data pipeline to UI       │
+│  MINDSET    Build → Measure → Learn → Improve                     │
+└──────────────────────────────────────────────────────────────────┘
 ```
+🧠 Building AI-agent projects and computer-vision systems, including drowsiness and proxy-detection concepts.
+🔬 Interested in model evaluation, video understanding, retrieval-augmented generation, and multi-agent workflows.
+🛠️ Enjoy working across the stack: data processing, model logic, APIs, and usable interfaces.
+🌱 Currently strengthening Machine Learning, Deep Learning, Data Science, and DSA foundations.
+🤝 Open to meaningful collaboration on applied AI/ML and open-source projects.
+<details>
+  <summary><b>⚡ A tiny terminal snapshot — click to expand</b></summary>
+```bash
+  $ whoami
+  Sahil Desai
 
-- Building AI agent projects and computer-vision systems.
-- Exploring deep learning, retrieval-augmented generation, and LLM-powered applications.
-- Interested in collaborating on practical AI/ML projects and open-source initiatives.
+  $ current_focus
+  Computer Vision | AI Agents | RAG | Deep Learning
 
-## `02` — Featured Projects
+  $ preferred_workflow
+  Understand -> Prototype -> Evaluate -> Ship -> Iterate
 
+  $ philosophy
+  A useful model is more than a metric: it needs reliable inputs,
+  measurable performance, and a practical way for people to use it.
+  ```
+</details>
+---
+<!-- =============================== PROJECTS ================================= -->
+`02`   /   🚀 Featured Builds
+<div align="center">
+  <i>Selected projects across AI engineering, deep learning, computer vision, and local-first automation.</i>
+</div>
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 VentureIQ</h3>
-      <strong>AI Startup Intelligence Platform</strong>
-      <p>An AI-powered platform for startup research and intelligence using corrective RAG, LLMs, and semantic retrieval.</p>
+      <p><b>AI Startup Intelligence Platform</b></p>
+      <p>Startup research and intelligence workflows powered by corrective retrieval-augmented generation, semantic retrieval, and LLM-based synthesis.</p>
       <p>
-        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/C--RAG-7C3AED?style=flat-square" alt="C-RAG" />
+        <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       </p>
-      <a href="https://github.com/sahil1399m/startup-blueprint-ai">Explore Repository →</a>
+      <a href="https://github.com/sahil1399m/startup-blueprint-ai"><b>↗ View source repository</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎭 AIthentic</h3>
-      <strong>Video Deepfake Detection</strong>
-      <p>A deep-learning system combining EfficientNet-B3 and Bi-LSTM for video-level deepfake detection.</p>
+      <p><b>Video Deepfake Detection</b></p>
+      <p>Video-level deepfake detection using an EfficientNet-B3 visual feature extractor and Bi-LSTM temporal modelling.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/EfficientNet-B3-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Computer%20Vision-6F42C1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/EfficientNet--B3-2563EB?style=flat-square" alt="EfficientNet-B3" />
+        <img src="https://img.shields.io/badge/Bi--LSTM-7C3AED?style=flat-square" alt="Bi-LSTM" />
       </p>
-      <p><strong>Reported model accuracy:</strong> 89.88%</p>
-      <em>Repository link to be added.</em>
+      <p><b>Reported accuracy: 89.88%</b> <sub>(use only with matching evaluation results)</sub></p>
+      <sub>Repository URL not added yet — replace this note once published.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Sentinel</h3>
-      <strong>Multi-Agent Financial Crime Detection</strong>
-      <p>An AI-driven system exploring multi-agent workflows for financial crime detection and structured analysis.</p>
+      <p><b>Multi-Agent Financial Crime Detection</b></p>
+      <p>Exploring multi-agent orchestration for structured financial-crime analysis, with LLM-driven workflows and SQL-backed data handling.</p>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=flat-square" alt="LLM Agents" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
       </p>
-      <em>Repository link to be added.</em>
+      <sub>Repository URL not added yet — replace this note once published.</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🧾 BillWise Local</h3>
-      <strong>Local-First Invoice Processing</strong>
-      <p>A privacy-oriented invoice processing application exploring OCR, local LLM extraction, validation, and SQLite storage.</p>
+      <p><b>Local-First Invoice Processing</b></p>
+      <p>Invoice extraction and expense management using OCR, local LLM-assisted field extraction, validation rules, and SQLite persistence.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OCR-0A7EA4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Tesseract-OCR-0F766E?style=flat-square" alt="Tesseract OCR" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <em>Repository link to be added.</em>
+      <sub>Repository URL not added yet — replace this note once published.</sub>
     </td>
   </tr>
 </table>
-
-## `03` — Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,sql&theme=dark" alt="Python, C++, JavaScript, SQL"/>
-</p>
-
-### AI / ML / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="PyTorch, OpenCV, scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge" alt="RAG"/>
-</p>
-
-### Backend / Applications / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit,react,git,github,docker,linux,vscode&theme=dark" alt="FastAPI, Flask, Streamlit, React, Git, GitHub, Docker, Linux, VS Code"/>
-</p>
-
-### AI Engineering Ecosystem
-
-`LangChain` · `LangGraph` · `Hugging Face` · `Groq` · `Google Gemini` · `ChromaDB` · `REST APIs` · `SQLite` · `PostgreSQL`
-
-## `04` — GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahil1399m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1399m&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sahil1399m&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahil1399m&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</p>
-
 <details>
-  <summary><strong>🏆 GitHub trophies</strong></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahil1399m&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
-  </p>
+  <summary><b>🧪 What I care about when building AI systems</b></summary>
+  <br />
+Layer	Questions I try to answer
+Data	Is the dataset representative, clean, and split without leakage?
+Models	Is the baseline meaningful, and does the metric match the task?
+Retrieval	Are the retrieved chunks relevant, traceable, and sufficient?
+Agents	Are tool calls controlled, observable, and useful?
+Backend	Are APIs testable, inputs validated, and errors handled?
+Product	Can someone understand and use the result?
 </details>
-
-## `05` — Beyond the Code
-
-- **Computer Vision:** Exploring visual recognition and video understanding.
-- **AI Systems:** Building RAG pipelines and LLM-powered workflows.
-- **Open Source:** Interested in contributing to useful developer and AI tools.
-- **Problem Solving:** Practising DSA and algorithmic thinking.
-
-## `06` — Let's Connect
-
-Have an interesting AI/ML idea, a computer-vision challenge, or an open-source project? Let's collaborate.
-
-<p align="center">
-  <a href="https://linkedin.com/in/sahil-desai-665404341">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sahildesai00112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/sahildesai_012">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil1399m&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Experimenting. Improving.</i>
-</p>
+---
+<!-- ================================ TECH STACK ============================== -->
+`03`   /   🧰 The Arsenal
+<div align="center">
+  <h3>LANGUAGES</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,sql&perline=8&theme=dark" alt="Python, C++, JavaScript, SQL" />
+  <br /><br />
+  <h3>AI / ML / COMPUTER VISION</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=8&theme=dark" alt="PyTorch and OpenCV" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <br /><br />
+  <h3>LLM / RETRIEVAL / AGENTS</h3>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+  <br /><br />
+  <h3>BACKEND / APP / TOOLING</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,streamlit,docker,git,github,linux,vscode&perline=9&theme=dark" alt="FastAPI, Flask, React, Streamlit, Docker, Git, GitHub, Linux, VS Code" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
+> **Stack rule:** badges describe tools I have worked with or am actively exploring—not automatic proof of production-level expertise.
+---
+<!-- ============================= GITHUB DASHBOARD =========================== -->
+`04`   /   📡 GitHub Command Center
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil1399m&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1399m&layout=donut-vertical&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" height="180" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=sahil1399m&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub contribution streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil1399m&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity graph" />
+</div>
+<details>
+  <summary><b>📊 More repository insights</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=sahil1399m&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="90%" alt="Top contributed repositories" />
+    <br /><br />
+    <img src="https://github-profile-trophy.vercel.app/?username=sahil1399m&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="95%" alt="GitHub trophies" />
+  </div>
+</details>
+<sub>Stats are generated by external services and may be cached, delayed, rate-limited, or temporarily unavailable. Private contribution visibility depends on GitHub settings.</sub>
+---
+<!-- ========================== CONTRIBUTION UNIVERSE ========================= -->
+`05`   /   🐍 Contribution Universe
+<div align="center">
+  <h3>THE SNAKE IS HUNGRY.</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil1399m/sahil1399m/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil1399m/sahil1399m/output/github-snake.svg" />
+    <img alt="Animated snake moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/sahil1399m/sahil1399m/output/github-snake.svg" width="100%" />
+  </picture>
+  <br />
+  <sub>Snake animation requires the included <code>.github/workflows/snake.yml</code> workflow to run successfully.</sub>
+</div>
+🌌 3D Contribution Galaxy
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil1399m/sahil1399m/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/sahil1399m/sahil1399m/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  </picture>
+  <sub>Optional: the included 3D contribution workflow generates this asset. If you don't want that workflow, remove this section.</sub>
+</div>
+---
+<!-- ================================ MILESTONES ============================== -->
+`06`   /   🏁 Milestones & Momentum
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🏆 Hackathon</h3>
+        <b>Finalist</b><br />Lenovo LEAP AI Hackathon 2.0 · 2026
+      </td>
+      <td align="center" width="33%">
+        <h3>🌐 Open Source</h3>
+        <b>Merged contribution</b><br />VJTI CoC repository · Inheritance 2025
+      </td>
+      <td align="center" width="33%">
+        <h3>💻 Problem Solving</h3>
+        <b>LeetCode peak: 1497</b><br />Reported rating: 1465
+      </td>
+    </tr>
+  </table>
+</div>
+<details>
+  <summary><b>📚 What I'm currently sharpening</b></summary>
+  <br />
+[ ] Deep Learning and model evaluation
+[ ] Temporal modelling for video understanding
+[ ] Reliable RAG pipelines and retrieval evaluation
+[ ] Tool-using AI agents and workflow orchestration
+[ ] DSA and problem-solving consistency
+[ ] Better testing, observability, and deployment for AI applications
+<sub>Update these checkboxes as your priorities evolve.</sub>
+</details>
+---
+<!-- ============================== CURRENT MODE ============================== -->
+`07`   /   🧪 Current Mode
+```yaml
+mission: Build practical AI applications
+primary_tracks:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Retrieval-Augmented Generation
+  - Agentic AI
+engineering_principles:
+  - Measure before claiming
+  - Keep experiments reproducible
+  - Prefer clear architecture over unnecessary complexity
+  - Make the result useful to a real person
+status: Always learning; always iterating
+```
+---
+<!-- ================================ CONNECT ================================= -->
+`08`   /   🤝 Let's Build Something
+<div align="center">
+  <p>If you're working on <b>AI/ML, computer vision, intelligent agents, or open source</b>, let's connect and build something useful.</p>
+  <a href="https://linkedin.com/in/sahil-desai-665404341"><img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sahildesai00112@gmail.com"><img src="https://img.shields.io/badge/START%20A-CONVERSATION-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <br /><br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" width="90%" />
+  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,100:050816&height=120&section=footer" alt="Decorative footer" />
+</div>
+<!-- Built with curiosity, shipped with iteration. -->
